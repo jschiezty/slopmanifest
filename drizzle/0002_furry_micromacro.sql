@@ -1,0 +1,1 @@
+ALTER TABLE `clauses` ADD `display_name` text;
